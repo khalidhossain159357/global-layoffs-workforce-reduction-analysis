@@ -226,7 +226,7 @@ This page focuses on:
 * Total layoffs by funding range
 * Layoff trends in top countries
 
-**[Google Data Studio dashboard](https://datastudio.google.com/reporting/aa3d55b6-2d24-4325-a037-bfc61650f308)**
+**[Google Data Studio Dashboard](https://datastudio.google.com/reporting/aa3d55b6-2d24-4325-a037-bfc61650f308)**
 
 ---
 
