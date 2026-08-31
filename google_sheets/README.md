@@ -10,4 +10,4 @@ The raw layoffs dataset was first reviewed and audited in Google Sheets before b
 
 ## Live Google Sheets File
 
-[Google Sheets](https://docs.google.com/spreadsheets/d/17h4zMD-OYyfoulOU6V9_QOqboz-XKiVVJC5RuyqHAHQ/edit?usp=sharing)
+[Google Sheets Audit](https://docs.google.com/spreadsheets/d/17h4zMD-OYyfoulOU6V9_QOqboz-XKiVVJC5RuyqHAHQ/edit?usp=sharing)
