@@ -10,4 +10,4 @@ This folder contains screenshots of the final dashboard created in Google Data S
 
 ## Live Dashboard
 
-[Google Data Studio dashboard](https://datastudio.google.com/reporting/aa3d55b6-2d24-4325-a037-bfc61650f308)
+[Google Data Studio Dashboard](https://datastudio.google.com/reporting/aa3d55b6-2d24-4325-a037-bfc61650f308)
